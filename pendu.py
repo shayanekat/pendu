@@ -1,11 +1,8 @@
 #katchera
 #Shayane
 #aero 2 D1
-#———————————————————————————————————————————————————————————
-#        TP2 : Le  Jeu du pendu en version amelioree
-#———————————————————————————————————————————————————————————
 
-    # IPSA IN21 TP2: jeu du pendu
+    # Jeu du pendu
     # Ce code utilise un fichier dictionnaire de mots français
     # sous licence GNU GPL : http://www.winedt.org/Dict/
     # Les définitions des mots sont tirées du CNRTL: cnrtl.fr
