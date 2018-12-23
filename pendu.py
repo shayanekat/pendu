@@ -1,7 +1,7 @@
 #katchera
 #Shayane
 #aero 2 D1
-
+ 
     # Jeu du pendu
     # Ce code utilise un fichier dictionnaire de mots français
     # sous licence GNU GPL : http://www.winedt.org/Dict/
